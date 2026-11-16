@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Oficina Mecânica — Sistema Integrado de Atendimento e Execução de Serviços (MVP)
 
 Tech Challenge · Fase 1 · SOAT — Software Architecture (Pós Tech)
@@ -162,3 +163,7 @@ curl localhost:8080/api/admin/metricas/tempo-medio-execucao -H "$H"
 - Schema gerenciado por `hibernate.ddl-auto=update` (migrar para Flyway).
 - Um único usuário administrador, definido por variáveis de ambiente.
 - "Envio" do orçamento = disponibilização via API (sem e-mail/SMS/push).
+=======
+# oficina-service
+teste de sistema de oficina medio porte
+>>>>>>> b7554ad8d71015363380a9c07c65fa96a934737b
